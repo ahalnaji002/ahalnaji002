@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hashem AL-Naji</h1>
-<h3 align="center">Backend Laravel Developer | Full Stack Web Developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <p align="center">
 Computer Engineering student passionate about building scalable web applications and solving real-world problems through clean, efficient code.
@@ -10,7 +10,6 @@ Computer Engineering student passionate about building scalable web applications
 ## 👨‍💻 About Me
 
 - 🎓 Computer Engineering Student
-- 💻 Backend Laravel Developer
 - 🌐 Full Stack Web Developer
 - 🚀 Building scalable web applications
 - 🤖 Currently learning AI & Software Engineering
