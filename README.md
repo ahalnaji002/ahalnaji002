@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Ahmed Hashem AL-Naji</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Ahmed Hashem Al-Naji</h1>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
-Computer Engineering student passionate about building scalable web applications and solving real-world problems through clean, efficient code.
+Full-Stack Developer focused on building practical, reliable, and user-focused web applications using modern frontend, backend, and database technologies.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Engineering Student
-- 🌐 Full Stack Web Developer
-- 🚀 Building scalable web applications
-- 🤖 Currently learning AI & Software Engineering
+- 🌐 Full-Stack Developer
+- 🚀 Building practical and scalable web applications
+- 🔗 Developing REST APIs and database-driven systems
+- 🤖 Exploring AI, automation, and modern software engineering practices
 - 📫 Reach me: **ahalnaji002@gmail.com**
 
 ---
@@ -29,17 +29,29 @@ Computer Engineering student passionate about building scalable web applications
 
 ### 🏥 Healthcare Conflict Management System (HCMS)
 
-Healthcare management platform connecting Patients, Doctors, NGOs and Administrators.
+Healthcare management platform connecting patients, doctors, NGOs, and administrators, with authentication, role-based access, emergency alerts, treatment management, and humanitarian assistance features.
 
 ### 👥 Volunteer Coordination System
 
-Backend system for managing volunteers, work locations, tasks and assignments using Laravel.
+RESTful backend system built with Laravel and PostgreSQL for managing volunteers, tasks, work locations, assignments, authentication, and role-based authorization.
+
+### 👨‍👩‍👧‍👦 Salman Family Registry
+
+Family registry and management system with secure authentication, role-based access, family records management, administrative controls, and data export features.
+
+### 📩 Barq SMS
+
+SMS management solution designed to simplify sending and managing messages through a practical web-based workflow.
+
+### 🛒 Shop Manager
+
+Mobile shop management application for managing customers, debts, invoices, products, and basic business operations using Flutter and Firebase.
 
 ---
 
 ## 🌐 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/ahmed-hashem-alnaji
+- 💼 LinkedIn: https://www.linkedin.com/in/ahmed-hashem-alnaji/
 - 🐙 GitHub: https://github.com/ahalnaji002
 
 ---
