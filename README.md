@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Hashem Al-Naji</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Hashem Al Naji</h1>
 <h3 align="center">Computer Engineering Student | Backend-Focused Full-Stack Developer</h3>
 
 <p align="center">
