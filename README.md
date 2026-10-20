@@ -1,26 +1,40 @@
 <h1 align="center">Hi 👋, I'm Ahmed Hashem Al-Naji</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">Computer Engineering Student | Backend-Focused Full-Stack Developer</h3>
 
 <p align="center">
-Full-Stack Developer focused on building practical, reliable, and user-focused web applications using modern frontend, backend, and database technologies.
+Building reliable backend systems, REST APIs, and practical full-stack applications.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🌐 Full-Stack Developer
-- 🚀 Building practical and scalable web applications
-- 🔗 Developing REST APIs and database-driven systems
-- 🤖 Exploring AI, automation, and modern software engineering practices
-- 📫 Reach me: **ahalnaji002@gmail.com**
+I'm a Computer Engineering student based in Palestine, passionate about building reliable backend systems, REST APIs, and practical full-stack applications.
+
+I work primarily with **Node.js, Express.js, Laravel, MySQL, and PostgreSQL**, with frontend experience using React and Next.js.
+
+I'm open to **remote internship and junior-level job opportunities** in Software Engineering, Backend Development, and Full-Stack Development, where I can contribute to real-world projects, collaborate with experienced teams, and continue growing professionally.
+
+- 🎓 Computer Engineering student — expected graduation: January 2027
+- 💻 Focused on backend engineering, API design, databases, and application security
+- 🤝 Experience collaborating on software projects and leading an eight-member development team
+- 🌍 Based in Palestine and open to remote opportunities
+- 📚 Continuously learning and improving my software engineering skills
 
 ---
 
-## 🛠 Languages & Tools
+## 🛠 Tech Stack
+
+**Backend:** Node.js · Express.js · Laravel · PHP · REST APIs
+
+**Frontend:** JavaScript · TypeScript · React · Next.js · HTML · CSS · Tailwind CSS
+
+**Databases:** MySQL · PostgreSQL · Prisma · Knex.js
+
+**Tools:** Git · GitHub · Postman · Jira
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=laravel,php,js,react,nodejs,postgres,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,js,ts,react,nextjs,html,css,tailwind,mysql,postgres,prisma,git,github,postman" alt="Tech stack icons" />
 </p>
 
 ---
@@ -28,38 +42,31 @@ Full-Stack Developer focused on building practical, reliable, and user-focused w
 ## 📌 Featured Projects
 
 ### 🏥 Healthcare Conflict Management System (HCMS)
+**Node.js · Express.js · MySQL · Knex.js**
 
-Healthcare management platform connecting patients, doctors, NGOs, and administrators, with authentication, role-based access, emergency alerts, treatment management, and humanitarian assistance features.
+Backend system supporting healthcare workflows, user authentication, role-based access control, patient management, and treatment-related operations.
 
-### 👥 Volunteer Coordination System
+[Explore HCMS Backend](https://github.com/ahalnaji002/HCMS-Backend)
 
-RESTful backend system built with Laravel and PostgreSQL for managing volunteers, tasks, work locations, assignments, authentication, and role-based authorization.
+### 📚 Sanabil Educational Platform
+**Next.js · React · TypeScript · Express.js · Prisma · MySQL**
+
+Arabic-first educational platform with student-facing interfaces, protected administration, database-driven content, and REST APIs.
+
+[Explore Sanabil](https://github.com/ahalnaji002/sanabil-educational-platform)
 
 ### 👨‍👩‍👧‍👦 Salman Family Registry
+**Node.js · Express.js · MySQL · Knex.js**
 
-Family registry and management system with secure authentication, role-based access, family records management, administrative controls, and data export features.
+Family management system with secure authentication, role-based authorization, administrative workflows, data exports, and database backup functionality.
 
-### 📩 Barq SMS
-
-SMS management solution designed to simplify sending and managing messages through a practical web-based workflow.
-
-### 🛒 Shop Manager
-
-Mobile shop management application for managing customers, debts, invoices, products, and basic business operations using Flutter and Firebase.
+[Explore Backend](https://github.com/ahalnaji002/Salman-Family-Registry-Backend)
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/ahmed-hashem-alnaji/
-- 🐙 GitHub: https://github.com/ahalnaji002
-
----
-
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ahalnaji002&show_icons=true&theme=github_dark)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahalnaji002&theme=github-dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahalnaji002&layout=compact&theme=github_dark)
+- 🌐 [Portfolio](https://ahmed-alnaji.vercel.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-hashem-alnaji/)
+- 🐙 [GitHub](https://github.com/ahalnaji002)
+- 📫 **ahalnaji002@gmail.com**
